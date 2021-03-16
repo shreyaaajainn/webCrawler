@@ -14,5 +14,3 @@ Basic useful feature list:
  * Install modules requests,beautifulsoup4 using pip installer(eg: pip install requests)
  * Run main.py file
  
-## Output Screenshot:
-![Output](Screenshots/PythonWebCrawler.png)
